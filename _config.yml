@@ -1,0 +1,14 @@
+layout_spectrum: 0.13631028379313648
+typography_spectrum: 0.7042887818533927
+color:
+  brandStrength: 0.2900581583380699
+  lightness: 0.873177427565679
+  saturation: 0.31588665931485593
+  rhythmicContrast: 0.41586001706309617
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: Solution
